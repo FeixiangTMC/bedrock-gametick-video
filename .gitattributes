@@ -1,0 +1,11 @@
+# 统一换行符，避免 Windows/macOS 提交噪声
+* text=auto eol=lf
+
+# 二进制
+*.ttf binary
+*.otf binary
+*.png binary
+*.jpg binary
+*.wav binary
+*.mp3 binary
+*.mp4 binary

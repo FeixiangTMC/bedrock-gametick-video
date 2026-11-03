@@ -1,0 +1,27 @@
+# 构建产物与本地缓存（不进仓库）
+node_modules/
+build*/
+build_dev*/
+fin_frames/
+stills/
+renders/
+audio/
+
+# 生成物：配音音轨（约 100 MB，可由 script/narration.txt 重新生成）
+public/assets/*/audio.wav
+
+# Python
+__pycache__/
+*.pyc
+
+# 编辑器 / 系统
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# 日志与临时文件
+*.log
+render.done
+fin_count.txt
+t.mp3
