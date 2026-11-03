@@ -1,4 +1,6 @@
-# 一秒二十刻：我的世界基岩版游戏刻流程全解
+# bedrock gametick video
+
+> 一秒二十刻：我的世界基岩版游戏刻流程全解
 
 一条 9 分钟的科普视频，把 Minecraft 基岩版的 **tick（游戏刻）流水线** 从头拆到尾：
 50 毫秒一圈到底发生了什么、世界更新有哪些步骤、区块刻的九步怎么排、红石刻为什么"慢半拍"、
@@ -8,7 +10,7 @@
 
 ![封面](docs/cover-16x9.png)
 
-**成品**：[B 站观看](https://www.bilibili.com/video/BVxxxxxxx)（发布后替换链接）· [9 分钟 MP4 下载](https://github.com/FeixiangTMC/bedrock-tick-explainer/releases/latest)
+**成品**：[9 分钟 MP4 下载](https://github.com/FeixiangTMC/bedrock-gametick-video/releases/latest)
 
 ## 内容结构
 
