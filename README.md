@@ -12,6 +12,15 @@
 
 **成品**：[9 分钟 MP4 下载](https://github.com/FeixiangTMC/bedrock-gametick-video/releases/latest)
 
+## 制作
+
+| 项 | |
+|---|---|
+| 视频制作 | **deepseek** |
+| 制作工具 | anything2explainer（主题 → 讲解视频的流水线） |
+| 配音 | GPT-SoVITS v2（本地微调，8 分钟素材） |
+| 画面 | Remotion 代码动画，55 个镜头逐帧绘制 |
+
 ## 内容结构
 
 | 章 | 起点 | 讲什么 |
